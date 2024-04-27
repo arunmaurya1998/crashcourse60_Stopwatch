@@ -1,0 +1,25 @@
+#text{
+    text-align: center;
+    font-size: 30px;
+    font-style: italic;
+    color: red;
+}
+#stopwatch{
+    text-align: center;
+    font-size: 30px;
+    font-style: italic;
+}
+#button{
+    text-align: center;
+    font-size: 30px;
+    font-style: italic;
+    color: brown;
+}
+#container{
+    width: 40%;
+    padding: 20px;
+    margin: auto;
+    background-color: brown;
+    border-radius: 10px;
+    box-shadow: 2px 4px 2px 2px red;
+}
